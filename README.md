@@ -1,0 +1,2 @@
+# kicad
+Libs and footprints
